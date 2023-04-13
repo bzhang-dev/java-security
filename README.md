@@ -1,4 +1,4 @@
-# java-secury
+# java-security
 
 # Password Generator 
 Edited by Boyuan Zhang
